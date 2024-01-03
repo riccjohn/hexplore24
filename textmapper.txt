@@ -1,0 +1,9 @@
+0683 green trees village
+0783 green fir-forest
+0684 blue water
+0785 blue water
+0683-0783 river
+include gnomeyland.txt
+license <text>Public Domain</text>
+# https://campaignwiki.org/text-mapper
+# https://campaignwiki.org/text-mapper/help
