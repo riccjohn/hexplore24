@@ -1,9 +1,26 @@
-0683 green trees village
+0185 blank
+0285 blank
+0385 blank
+0485 blank
+0582 dark-green fir-forest
+0583 blank
+0584 blank
+0585 blank
+0681 dark-green fir-forest
+0682 blank
+0683 green firs village "Wybury"
+0684 blue water "Lake Frostveil"
+0685 blank
+0782 dark-green fir-mountains
 0783 green fir-forest
-0684 blue water
+0784 blank
 0785 blue water
-0683-0783 river
+0885 blank
+0985 blank
+1085 blank
+1185 blank
+1285 blank
+1385 blank
+0683-0783-0782 river
 include gnomeyland.txt
-license <text>Public Domain</text>
 # https://campaignwiki.org/text-mapper
-# https://campaignwiki.org/text-mapper/help

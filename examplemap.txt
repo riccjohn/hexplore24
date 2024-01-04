@@ -1,0 +1,257 @@
+0101 green forest
+0102 green forest
+0103 light-green bushes
+0104 light-grey grass
+0105 light-grey desert
+0106 light-grey grass
+0107 light-grey grass
+0108 grey swamp2 chaos dry
+0109 light-grey mountain dry
+0110 light-green firs thorp
+0201 green trees thorp
+0202 dark-grey swamp
+0203 light-green bushes
+0204 light-grey grass
+0205 light-grey desert
+0206 light-grey grass
+0207 light-grey mountain dry
+0208 light-grey mountain dry
+0209 light-grey mountain dry
+0210 light-grey mountain
+0301 light-green bushes
+0302 light-green bushes
+0303 water
+0304 light-grey grass
+0305 light-grey grass
+0306 light-grey grass
+0307 grey swamp dry
+0308 light-grey mountain dry
+0309 white mountain
+0310 white mountain
+0401 light-green bushes
+0402 light-green bushes
+0403 light-grey grass cliff0
+0404 light-grey grass
+0405 grey swamp dry
+0406 grey swamp dry
+0407 grey swamp dry
+0408 white mountain cliff1 cliff3
+0409 white mountains cliff2 cliff3 cliff4
+0410 light-grey mountain
+0501 light-green bushes
+0502 green fir-forest
+0503 green fir-forest
+0504 light-green firs thorp
+0505 grey swamp dry
+0506 grey swamp dry
+0507 light-grey mountain dry
+0508 light-grey mountain dry
+0509 grey swamp dry
+0510 grey swamp dry
+0601 light-green fir-forest
+0602 light-green firs thorp
+0603 light-green fir-forest
+0604 light-grey mountain dry
+0605 light-grey mountain dry
+0606 light-grey mountain dry
+0607 light-grey mountain dry
+0608 light-grey mountain
+0609 grey swamp dry
+0610 light-grey forest-hill
+0701 green firs thorp
+0702 light-green fir-forest
+0703 light-grey mountain
+0704 grey swamp dry
+0705 white mountain cliff1
+0706 white mountains cliff0 cliff2 cliff5
+0707 white mountain
+0708 light-grey mountain
+0709 grey swamp dry
+0710 grey swamp dry
+0801 green fir-forest
+0802 light-green firs thorp
+0803 grey swamp dry
+0804 light-grey mountain dry
+0805 light-grey mountain dry
+0806 white mountain
+0807 light-grey mountain
+0808 grey swamp dry
+0809 light-grey forest-hill
+0810 light-grey forest-hill
+0901 green firs thorp
+0902 grey swamp
+0903 light-grey mountain dry cliff1
+0904 light-grey mountain dry
+0905 white mountain
+0906 light-grey mountain dry
+0907 light-grey mountain
+0908 grey swamp dry
+0909 light-grey forest-hill
+0910 grey swamp
+1001 green fir-forest
+1002 light-grey mountain dry cliff0 cliff1
+1003 white mountains cliff0 cliff1 cliff5
+1004 white mountains cliff0 cliff3
+1005 white mountain law cliff3
+1006 light-grey mountain
+1007 grey swamp dry
+1008 light-green firs thorp
+1009 grey swamp
+1010 green firs thorp
+1101 light-green bushes
+1102 light-green fir-forest
+1103 white mountain cliff1 cliff2
+1104 white mountain
+1105 light-grey mountain
+1106 grey swamp dry
+1107 grey swamp dry
+1108 light-grey mountain dry
+1109 light-grey mountain dry cliff5
+1110 light-grey grass
+1201 green firs thorp
+1202 light-green fir-forest
+1203 light-grey mountain
+1204 light-grey mountain
+1205 grey swamp2 chaos dry
+1206 light-grey forest-hill
+1207 light-green fir-forest
+1208 light-grey mountain dry
+1209 white mountain cliff5
+1210 white mountain cliff0
+1301 green fir-forest
+1302 grey swamp
+1303 light-grey forest-hill
+1304 light-green firs thorp
+1305 grey swamp dry
+1306 grey swamp dry
+1307 water
+1308 light-green firs thorp
+1309 white mountain cliff1
+1310 white mountains cliff2 cliff3
+1401 green fir-forest
+1402 grey swamp
+1403 grey swamp
+1404 light-green fir-forest
+1405 grey swamp dry
+1406 grey swamp dry
+1407 grey swamp dry
+1408 light-grey mountain dry
+1409 light-grey mountain dry
+1410 light-grey mountain
+1501 light-green bushes
+1502 green firs thorp
+1503 green fir-forest
+1504 green firs thorp
+1505 light-grey forest-hill
+1506 light-grey grass
+1507 grey swamp dry
+1508 light-grey mountain dry
+1509 light-grey mountain dry
+1510 white mountain
+1601 light-green bushes
+1602 green fir-forest
+1603 water
+1604 green fir-forest
+1605 grey swamp
+1606 light-grey forest-hill
+1607 light-green firs thorp
+1608 light-grey mountain dry
+1609 light-grey mountain dry
+1610 light-grey mountain
+1701 light-green bushes
+1702 green trees thorp
+1703 light-green bushes cliff2
+1704 green fir-forest
+1705 grey swamp
+1706 grey swamp
+1707 grey swamp
+1708 light-green fir-forest
+1709 white mountains cliff0 cliff1 cliff3 cliff5
+1710 white mountain
+1801 light-green bushes
+1802 green forest
+1803 green trees village
+1804 light-green firs thorp cliff1
+1805 green fir-forest
+1806 light-green firs thorp
+1807 light-grey mountain cliff0
+1808 white mountain cliff0 cliff2 cliff3
+1809 light-grey mountain
+1810 light-grey mountain
+1901 light-green bushes
+1902 dark-grey swamp
+1903 dark-grey swamp
+1904 green fir-forest cliff1
+1905 light-grey forest-hill
+1906 green fir-forest
+1907 light-green fir-forest
+1908 grey swamp dry
+1909 grey swamp dry
+1910 grey swamp dry
+2001 light-green bushes
+2002 green trees thorp
+2003 soil town
+2004 green firs thorp
+2005 grey swamp
+2006 light-grey forest-hill
+2007 grey swamp
+2008 light-grey forest-hill
+2009 light-grey mountain
+2010 light-grey forest-hill
+2003-2002 trail
+0504-0602 trail
+1201-1502 trail
+0802-0701 trail
+1806-1804 trail
+1308-1008 trail
+1702-2002 trail
+1304-1201 trail
+2004-2002 trail
+0701-0901 trail
+0602-0701 trail
+0110-0108 trail
+1607-1806 trail
+1010-1008 trail
+1804-2002 trail
+0901-1201 trail
+1803-2002 trail
+1502-1702 trail
+1005-1008 trail
+1504-1702 trail
+1205-1504 trail
+0303-0202-0201-0200 river
+1410-1311 river
+0210-0110-0010 river
+0610-0611 river
+2009-1909-2008-2109 river
+1610-1611 river
+0703-0802-0902-0901-0900 river
+2007-2008-2109 river
+1810-1910-2010-2111 river
+0810-0910-1010-1011 river
+0909-1009-1010-1011 river
+1303-1302-1301-1300 river
+0809-0910-1010-1011 river
+1809-1909-2008-2109 river
+1603-1704-1803-1903-1902-2002-2103 river
+0608-0609-0709-0808-0809-0910-1010-1011 river
+1606-1605-1705-1704-1803-1903-1902-2002-2103 river
+0410-0510-0609-0709-0808-0809-0910-1010-1011 river
+0807-0908-1008-1009-1010-1011 river
+1905-1904-1903-1902-2002-2103 river
+0708-0709-0808-0809-0910-1010-1011 river
+1505-1605-1705-1704-1803-1903-1902-2002-2103 river
+1105-1205-1306-1405-1506-1605-1705-1704-1803-1903-1902-2002-2103 river
+1307-1407-1406-1306-1405-1506-1605-1705-1704-1803-1903-1902-2002-2103 river
+1204-1305-1404-1403-1402-1503-1603-1704-1803-1903-1902-2002-2103 river
+0907-1007-1008-1009-1010-1011 river
+1203-1304-1403-1402-1503-1603-1704-1803-1903-1902-2002-2103 river
+1807-1707-1706-1705-1704-1803-1903-1902-2002-2103 river
+1206-1307-1407-1406-1306-1405-1506-1605-1705-1704-1803-1903-1902-2002-2103 river
+2006-2005-2004-2003-1903-1902-2002-2103 river
+1006-1107-1207-1307-1407-1406-1306-1405-1506-1605-1705-1704-1803-1903-1902-2002-2103 river
+1603-1704-1803 canyon
+1307-1407-1406-1306-1405-1506-1605 canyon
+include gnomeyland.txt
+# Seed: 365816657
+# Documentation: https://campaignwiki.org/text-mapper/alpine/document?width=20&bottom=0&peaks=5&bumps=2&height=10&steepness=3&peak=10&bump=2&arid=2&type=hex&seed=365816657
