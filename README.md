@@ -4,3 +4,4 @@ Map built using [CampaignWiki TextMapper](https://campaignwiki.org/text-mapper/a
 
 Notes created using [Obsidian.md](https://obsidian.md/)
 
+<!-- <img src='output/map.svg' /> -->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="740 14116 470 952" >
+<defs></defs>
+<g id="backgrounds"></g>
+<g id="lines"><path id="line0"  d="M945.0,14350.0 C975.0,14332.7 945.0,14350.0 975.0,14332.7 L1005.0,14315.4" /></g>
+<g id="things"><use x="900.0" y="14376.0" xlink:href="#green" />
+<use x="900.0" y="14376.0" xlink:href="#trees" />
+<use x="900.0" y="14376.0" xlink:href="#village" />
+<use x="1050.0" y="14289.4" xlink:href="#green" />
+<use x="1050.0" y="14289.4" xlink:href="#fir-forest" />
+<use x="900.0" y="14549.2" xlink:href="#blue" />
+<use x="900.0" y="14549.2" xlink:href="#water" />
+<use x="1050.0" y="14635.8" xlink:href="#blue" />
+<use x="1050.0" y="14635.8" xlink:href="#water" /></g>
+<g id="coordinates"><text text-anchor="middle" x="900.0" y="14306.7" >06.83</text>
+<text text-anchor="middle" x="1050.0" y="14220.1" >07.83</text>
+<text text-anchor="middle" x="900.0" y="14479.9" >06.84</text>
+<text text-anchor="middle" x="1050.0" y="14566.5" >07.85</text></g>
+<g id="regions"><polygon id="hex0683" fill="none" points="800.0,14376.0 850.0,14462.6 950.0,14462.6 1000.0,14376.0 950.0,14289.4 850.0,14289.4" />
+<polygon id="hex0783" fill="none" points="950.0,14289.4 1000.0,14376.0 1100.0,14376.0 1150.0,14289.4 1100.0,14202.8 1000.0,14202.8" />
+<polygon id="hex0684" fill="none" points="800.0,14549.2 850.0,14635.8 950.0,14635.8 1000.0,14549.2 950.0,14462.6 850.0,14462.6" />
+<polygon id="hex0785" fill="none" points="950.0,14635.8 1000.0,14722.4 1100.0,14722.4 1150.0,14635.8 1100.0,14549.2 1000.0,14549.2" /></g>
+<g id="line_labels"></g>
+<g id="labels"><g><text text-anchor="middle" x="900.0" y="14445.3" >Wybury</text></g>
+<g><text text-anchor="middle" x="900.0" y="14618.5" >Lake Frostveil</text></g></g>
+
+
+</svg>
