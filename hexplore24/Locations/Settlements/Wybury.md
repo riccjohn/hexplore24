@@ -1,0 +1,1 @@
+Located on the North end of [[Lake Frostveil]]
