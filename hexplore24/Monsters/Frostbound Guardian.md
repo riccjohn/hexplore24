@@ -1,4 +1,4 @@
-A mysterious being said to dwell within the depths of a cave, guarding an ancient artifact or source of power.
+A mysterious being said to dwell within the depths of the [[Icebound Cave]], guarding an ancient artifact or source of power.
 
 [Frost Giant](https://oldschoolessentials.necroticgnome.com/srd/index.php/Giant,_Frost)
 
