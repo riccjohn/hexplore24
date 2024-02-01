@@ -2,16 +2,17 @@
 0285 blank
 0385 blank
 0485 blank
-0582 dark-green fir-forest
+0582 blank
 0583 blank
 0584 blank
 0585 blank
-0681 dark-green fir-forest
+0681 blank
 0682 blank
 0683 green firs village "Wybury"
 0684 blue water "Lake Frostveil"
 0685 blank
-0782 dark-green fir-mountains
+0781 dark-green fir-hill
+0782 dark-green fir-hill 
 0783 green fir-forest
 0784 blank
 0785 blue water
@@ -21,6 +22,6 @@
 1185 blank
 1285 blank
 1385 blank
-0683-0783-0782 river
+0683-0783-0782-0781 river
 include gnomeyland.txt
 # https://campaignwiki.org/text-mapper
